@@ -10,7 +10,7 @@ let cardsEl = document.querySelector('#cards-el')
 
 let player = {
     name : "Per",
-    chips : 200
+    chips : 0
 }
 
 
